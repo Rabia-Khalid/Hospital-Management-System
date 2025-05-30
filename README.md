@@ -1,1 +1,2 @@
 # Hospital-Management-System
+The Hospital Management System is designed to address common challenges faced by hospitals by streamlining patient information management, including mild diagnoses and prescriptions. This system helps automate patient records, making it easier for healthcare workers and physicians to monitor and care for patients efficiently. It offers a structured approach to managing hospital operations and improving overall workflow.
